@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+mediapipe==0.10.9
+opencv-python
+Pillow
+numpy
+matplotlib
+pandas
+scikit-learn
+jupyter
