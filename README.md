@@ -1,4 +1,4 @@
-# FacePredictor
+# Facial emotion detection
 
 Webcam face analysis project for predicting **gender**, **age**, and **emotion** using PyTorch models with:
 - a **Streamlit app** (`app/FacePredictor_app.py`)
